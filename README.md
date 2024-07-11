@@ -27,7 +27,7 @@ Bachelor of Computer Engineering, 8.08 CGPA
 
 ### WORK EXPERIENCE
 #### THE UNIVERSITY OF MANCHESTER (Manchester, UK)
-####Student representative for PGT Computer Science SEPT 2023-Present
+#### Student representative for PGT Computer Science SEPT 2023-Present
 #### Student Ambassador (Bicentenary)  June 2024
 
 #### NICE ACTIMIZE	 ( Pune, IN - SEP 2022 - AUG 2023)

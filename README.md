@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Shivani Bharambe
+MSc Artificial Intelligence
+The University of Manchester
+

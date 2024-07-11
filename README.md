@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Shivani Bharambe
+#Shivani Bharambe
 MSc Artificial Intelligence
 The University of Manchester
 
+###EDUCATION
 THE UNIVERSITY OF MANCHESTER (Manchester, UK - SEPT 2023-Present)
 MSc Advanced Computer Science: Artificial Intelligence
-
 
 INTERNATIONAL INSTITUTE OF INFORMATION TECHNOLOGY (Pune, IN,  AUG 2020)
 Bachelor of Computer Engineering, 8.08 CGPA

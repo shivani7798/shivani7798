@@ -1,9 +1,12 @@
 <div align="center"> <img src="https://via.placeholder.com/150" alt="Shivani Bharambe Profile Picture" width="150" style="border-radius:50%"/> <h1>Hi, I'm Shivani Bharambe! 👋</h1> <p>Data Professional | Passionate about AI, ML, and Solving Real-World Problems</p> <a href="https://linkedin.com/in/shivani-bharambe"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="mailto:shivanib.work@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/> </a> </div>
+
 ### 🚀 About Me
 
-I'm a Professional Service Engineer and aspiring AI specialist with around 3 years of experience in data management, software development, and machine learning. I enjoy designing impactful systems and building ML pipelines that drive insights and innovation.
+I'm a Data Engineer and AI specialist with around 3 years of experience in data management, software development, and machine learning. I enjoy designing impactful systems and building ML pipelines that drive insights and innovation.
 
-🔭 Currently working on: MSc dissertation on Classifying App Reviews for Requirements Engineering using Deep Learning
+🔭 Currently exploring opportunities in AI research, data science, and applied ML roles in fast-paced, innovation-driven environments
+
+✅ Dissertation completed: Classification of App Reviews for Requirements Engineering using Deep Learning Language Models
 
 🌱 Learning: Prompt tuning, model interpretability, and real-world NLP applications
 
@@ -43,20 +46,6 @@ The University of Manchester (Jun 2024)
 Supported major events through artist coordination and public engagement
 
 ### 🛠️ Skills
-
-Category	Technologies & Tools
-Languages	Python, Java, SQL, Bash
-ML & Data Science	Scikit-learn, Hugging Face, pandas, NumPy
-NLP	BERT, Transformers, Text Mining
-Tools	GitLab, VS Code, Jupyter, Linux, REST APIs
-Databases	PostgreSQL, Oracle, MongoDB
-Others	Software Engineering, Agile, UAT, CI/CD
-
-### 📂 Featured Projects
-
-📄 MSc Dissertation – NLP for Requirements Engineering
-Classification of app reviews into meaningful labels using pre-trained BERT models and prompt tuning techniques
-
 | **Category**          | **Technologies & Tools**                   |
 | --------------------- | ------------------------------------------ |
 | **Languages**         | Python, Java, SQL, Bash                    |
@@ -65,3 +54,11 @@ Classification of app reviews into meaningful labels using pre-trained BERT mode
 | **Tools**             | GitLab, VS Code, Jupyter, Linux, REST APIs |
 | **Databases**         | PostgreSQL, Oracle, MongoDB                |
 | **Others**            | Software Engineering, Agile, UAT, CI/CD    |
+
+
+
+### 📂 Featured Projects
+
+📄 MSc Dissertation – NLP for Requirements Engineering
+Classification of app reviews into Multiple labels using pre-trained BERT models and prompt tuning techniques
+

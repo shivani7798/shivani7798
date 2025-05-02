@@ -1,96 +1,67 @@
+<div align="center"> <img src="https://via.placeholder.com/150" alt="Shivani Bharambe Profile Picture" width="150" style="border-radius:50%"/> <h1>Hi, I'm Shivani Bharambe! 👋</h1> <p>Data Professional | Passionate about AI, ML, and Solving Real-World Problems</p> <a href="https://linkedin.com/in/shivani-bharambe"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="mailto:shivanib.work@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/> </a> </div>
+### 🚀 About Me
 
-  
-  Hi, I'm Shivani Bharambe! 👋
-  Data Scientist | Machine Learning Engineer | Passionate about NLP, AI, and Data-Driven Solutions
+I'm a Professional Service Engineer and aspiring AI specialist with around 3 years of experience in data management, software development, and machine learning. I enjoy designing impactful systems and building ML pipelines that drive insights and innovation.
 
-  
-    
-  
-  
-    
-  
+🔭 Currently working on: MSc dissertation on Classifying App Reviews for Requirements Engineering using Deep Learning
 
+🌱 Learning: Prompt tuning, model interpretability, and real-world NLP applications
 
+💬 Ask me about: Data workflows, ML model training, NLP, or university life in the UK
 
-About Me 🚀
-I'm a Data Scientist and Machine Learning Engineer with 3 years of experience in data management, NLP, and software development. I hold an MSc in Advanced Computer Science (AI) from The University of Manchester, where I was honored with the Stellify Award for leadership and extracurricular contributions. At NICE Actimize, I led end-to-end data solutions for global banks, optimizing ETL pipelines and enhancing data accuracy by 98%. My passion lies in leveraging AI and deep learning to solve complex problems, with expertise in Python, SQL, and cloud technologies.
-
-🔭 Currently working on: Building scalable AI models for text classification and data analysis.
-🌱 Learning: Advanced NLP techniques, cloud orchestration with AWS, and graph databases.
-💬 Ask me about: Machine Learning, NLP, ETL pipelines, or my research in app review classification.
 📫 Reach me at: shivanib.work@gmail.com
 
+### 🎓 Education
 
-Skills 🛠️
+MSc Advanced Computer Science: Artificial Intelligence
+The University of Manchester (2023 – 2024)
+Stellify Award recipient
+Dissertation: Classification of App Reviews for Requirements Engineering Using Deep Learning Language Models
 
+Bachelor of Computer Engineering
+International Institute of Information Technology (2016 – 2020)
 
+### 💼 Work Experience
 
-Category
-Technologies
+Professional Service Engineer
+NICE Actimize (Sep 2022 – Aug 2023)
 
+Delivered complete solutions for clients like Prudential Bank, FHB, and UOB
 
+Managed full SDLC using GitLab, designed data workflows, improved processing pipelines
 
-Languages
-Python, SQL, SPARQL, C++, Java, HTML5, Unix Shell Scripts
+Promoted within 18 months for exceptional performance
 
+Student Representative – PGT Computer Science
+The University of Manchester (Sep 2023 – Sep 2024)
 
-Frameworks/Libraries
-TensorFlow, NLTK, Sci-kit-learn, BERT, Pandas
+Acted as liaison between students and faculty, improving satisfaction by 15%
 
+Student Ambassador – Bicentenary Team 200
+The University of Manchester (Jun 2024)
 
-Technologies
-ML/AI, NLP, Text Mining, ETL, Deep Learning, Computer Vision, Graph Databases, Web Scraping
+Supported major events through artist coordination and public engagement
 
+### 🛠️ Skills
 
-Tools
-Jupyter, GitHub, GitLab, Oracle, SQL Developer, Talend, Informatica, AWS, Excel
+Category	Technologies & Tools
+Languages	Python, Java, SQL, Bash
+ML & Data Science	Scikit-learn, Hugging Face, pandas, NumPy
+NLP	BERT, Transformers, Text Mining
+Tools	GitLab, VS Code, Jupyter, Linux, REST APIs
+Databases	PostgreSQL, Oracle, MongoDB
+Others	Software Engineering, Agile, UAT, CI/CD
 
+### 📂 Featured Projects
 
-Databases
-Oracle, Graph Databases (via SPARQL)
+📄 MSc Dissertation – NLP for Requirements Engineering
+Classification of app reviews into meaningful labels using pre-trained BERT models and prompt tuning techniques
 
-
-DevOps/Cloud
-AWS, Talend Cloud, Informatica PowerCenter
-
-
-
-Featured Projects 🏆
-
-Classification of App Reviews Using Deep LearningDeveloped an AI-driven system to classify app reviews into categories like User Experience and Bug Report using BERT and prompt tuning. Achieved high accuracy with advanced data pipelines and K-Fold cross-validation.Tech: Python, BERT, TensorFlow, NLTK
-
-Face-Based Alumni Tracking on Social MediaBuilt a CNN-based facial recognition system to track alumni on social media via web scraping. Published at Springer International Conference on Sentimental Analysis and Deep Learning (2020).Tech: Python, CNN, Web Scraping
-
-Text Expert: Multi-Class Text ClassificationCreated an NLP model to classify text into Business, Sports, Entertainment, Politics, and Technology with 95% accuracy using Multinomial Naive Bayes.Tech: Python, NLTK, Sci-kit-learn
-
-Relation Extraction with BERT and Symbolic BootstrappingEvaluated BERT and Symbolic Bootstrapping for relation extraction on SemEval-2010, achieving 85.43% accuracy with BERT.Tech: Python, BERT, NLP
-
-
-
-Achievements 🎖️
-
-🏅 Stellify Award, The University of Manchester, for leadership and community contributions.
-🥇 Top Performer, StudentHack 2024 (24-hour hackathon).
-🚀 Early Promotion, NICE Actimize, within 1.8 years for outstanding project delivery.
-📜 Published Research, Springer International Conference (2020) on face-based alumni tracking.
-🏆 SPOT Award, NICE Actimize (2022), for exceptional results.
-🥈 Internal Winner, Smart India Hackathon (SIH) 2020.
-
-
-GitHub Stats 📊
-
-  
-  
-
-
-
-Let's Connect! 📬
-
-💼 LinkedIn
-📧 Email
-🌐 Portfolio (Add your portfolio link if available)
-
-
-
-  Thanks for stopping by! 😄 Let's collaborate on innovative **AI** and **data solutions**.
-  
+| **Category**          | **Technologies & Tools**                   |
+| --------------------- | ------------------------------------------ |
+| **Languages**         | Python, Java, SQL, Bash                    |
+| **ML & Data Science** | Scikit-learn, Hugging Face, pandas, NumPy  |
+| **NLP**               | BERT, Transformers, Text Mining            |
+| **Tools**             | GitLab, VS Code, Jupyter, Linux, REST APIs |
+| **Databases**         | PostgreSQL, Oracle, MongoDB                |
+| **Others**            | Software Engineering, Agile, UAT, CI/CD    |

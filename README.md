@@ -1,4 +1,6 @@
-<div align="center"> <img src="https://via.placeholder.com/150" alt="Shivani Bharambe Profile Picture" width="150" style="border-radius:50%"/> <h1>Hi, I'm Shivani Bharambe! 👋</h1> <p>Data Professional | Passionate about AI, ML, and Solving Real-World Problems</p> <a href="https://linkedin.com/in/shivani-bharambe"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="mailto:shivanib.work@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/> </a> </div>
+<div align="center"> 
+  <!--<img src="https://via.placeholder.com/150" alt="Shivani Bharambe Profile Picture" width="150" style="border-radius:50%"/> -->
+  <h1>Hi, I'm Shivani Bharambe! 👋</h1> <p>Data Professional | Passionate about AI, ML, and Solving Real-World Problems</p> <a href="https://linkedin.com/in/shivani-bharambe"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="mailto:shivanib.work@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/> </a> </div>
 
 ### 🚀 About Me
 

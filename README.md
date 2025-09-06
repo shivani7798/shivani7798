@@ -1,6 +1,6 @@
 <div align="center"> 
   <!--<img src="https://via.placeholder.com/150" alt="Shivani Bharambe Profile Picture" width="150" style="border-radius:50%"/> -->
-  <h1>Hi, I'm Shivani Bharambe! 👋</h1> <p>Data Professional | Passionate about AI, ML, and Solving Real-World Problems</p> <a href="https://linkedin.com/in/shivani-bharambe"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="mailto:shivanib.work@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/> </a> </div>
+  <h1>Hi, I'm Shivani Bharambe! 👋</h1> <p>Machine Learning Engineer | Passionate about AI, ML, and Solving Real-World Problems</p> <a href="https://linkedin.com/in/shivani-bharambe"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="mailto:shivanib.work@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/> </a> </div>
 
 ### 🚀 About Me
 
@@ -29,21 +29,14 @@ International Institute of Information Technology (2016 – 2020)
 ### 💼 Work Experience
 
 Professional Service Engineer
-NICE Actimize (Sep 2022 – Aug 2023)
+NICE Actimize (Jan 2021 – Aug 2023)
 
-Delivered complete solutions for clients like Prudential Bank, FHB, and UOB
+Delivered complete solutions for global clients like Prudential Bank, FHB, and UOB
 
 Managed full SDLC using GitLab, designed data workflows, improved processing pipelines
 
 Promoted within 18 months for exceptional performance
 
-Student Representative – PGT Computer Science
-The University of Manchester (Sep 2023 – Sep 2024)
-
-Acted as liaison between students and faculty, improving satisfaction by 15%
-
-Student Ambassador – Bicentenary Team 200
-The University of Manchester (Jun 2024)
 
 Supported major events through artist coordination and public engagement
 
@@ -56,11 +49,13 @@ Supported major events through artist coordination and public engagement
 | **Tools**             | GitLab, VS Code, Jupyter, Linux, REST APIs |
 | **Databases**         | PostgreSQL, Oracle, MongoDB                |
 | **Others**            | Software Engineering, Agile, UAT, CI/CD    |
+| **ETL**               | Talend, Informatica, SQL Tuning            |
+
 
 
 
 ### 📂 Featured Projects
 
 📄 MSc Dissertation – NLP for Requirements Engineering
-Classification of app reviews into Multiple labels using pre-trained BERT models and prompt tuning techniques
+Classification of app reviews into Multiple labels using BERT models and prompt tuning techniques
 

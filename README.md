@@ -1,7 +1,7 @@
 <div align="center"> 
   <h1>Hi, I'm Shivani Bharambe! 👋</h1> 
   <p><strong>Machine Learning Engineer | Building Advanced ML Systems | Sharing Real Work</strong></p> 
-  <a href="https://www.youtube.com/@ShivaniMLEngineering"> 
+  <a href="https://www.youtube.com/@Shivaniworks"> 
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube"/> 
   </a>
   <a href="https://linkedin.com/in/shivani-bharambe"> 
@@ -81,7 +81,7 @@ NICE Actimize (Jan 2021 – Aug 2023)
 
 ### 🤝 Let's Connect
 
-* **YouTube:** [@ShivaniWorks](https://www.youtube.com/@ShivaniMLEngineering)
+* **YouTube:** [@ShivaniWorks](https://www.youtube.com/@Shivaniworks)
 * **LinkedIn:** [Shivani Bharambe](https://linkedin.com/in/shivani-bharambe)
 * **Email:** [shivanib.work@gmail.com](mailto:shivanib.work@gmail.com)
 
@@ -92,5 +92,5 @@ Found something interesting? I'd love to hear about it.
 ---
 
 <div align="center"> 
-  <p><strong>Latest Updated: January 2025</strong></p> 
+  <p><strong>Latest Updated: December 2025</strong></p> 
 </div>

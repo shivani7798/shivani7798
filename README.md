@@ -82,7 +82,7 @@ NICE Actimize (Jan 2021 – Aug 2023)
 
 ### 🤝 Let's Connect
 
-* **YouTube:** [@ShivaniWorks](https://www.youtube.com/@Shivaniworks)
+
 * **LinkedIn:** [Shivani Bharambe](https://linkedin.com/in/shivani-bharambe)
 * **Email:** [shivanib.work@gmail.com](mailto:shivanib.work@gmail.com)
 

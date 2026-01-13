@@ -1,9 +1,9 @@
 <div align="center"> 
   <h1>Hi, I'm Shivani Bharambe! 👋</h1> 
   <p><strong>Machine Learning Engineer | Building Advanced ML Systems | Sharing Real Work</strong></p> 
-  <a href="https://www.youtube.com/@Shivaniworks"> 
+  <!--<a href="https://www.youtube.com/@Shivaniworks"> 
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube"/> 
-  </a>
+  </a>-->
   <a href="https://linkedin.com/in/shivani-bharambe"> 
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/> 
   </a> 
@@ -29,7 +29,7 @@ I'm focused on **advanced NLP projects** and documenting everything on YouTube. 
 📫 Reach me at: shivanib.work@gmail.com
 
 ---
-
+<!--
 ### 📺 YouTube Channel
 
 **[Shivani - ML Engineering](https://www.youtube.com/@ShivaniMLEngineering)**
@@ -37,6 +37,7 @@ I'm focused on **advanced NLP projects** and documenting everything on YouTube. 
 I share project walkthroughs, research paper breakdowns, and real ML problems—not tutorial fluff. If you want to understand how production ML actually works, check it out.
 
 ---
+-->
 
 ### 🎓 Education
 
